@@ -27,6 +27,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mmatheus.barbosa)
 
 ## **My projects**
+- 🤖[Classificação de Imagens com CNN (Homer vs Bart)](https://github.com/Matheus-Baarbosa/classificacao-imagens-homer-bart)
+
 
 
 
