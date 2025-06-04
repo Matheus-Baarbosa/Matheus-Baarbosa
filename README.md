@@ -1,8 +1,16 @@
-# Hi, I'm Matheus 👨‍💻👋 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
+## About Me
+
+<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+
+```rust
+fn main() {
+    let _name = "Matheus Barbosa";
+    let _job = "Student & Developer in training";
+
+    let _location = "Brazil";
+    let _focus = "Deep Learning, Python, and AI projects";
+}
+
 
 
 ## Who am I?
