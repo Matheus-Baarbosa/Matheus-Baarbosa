@@ -1,17 +1,17 @@
-## About Me
+## About me
 
 <img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
 ```rust
 fn main() {
     let _name = "Matheus Barbosa";
-    let _job = "Student & Developer in training";
+    let _job = "AI Student & Developer in training";
 
-    let _location = "Brazil";
+    let _location = "São Paulo, Brazil";
     let _focus = "Deep Learning, Python, and AI projects";
 }
 
-
+```
 
 ## Who am I?
 
