@@ -21,9 +21,9 @@ fn main() {
 🚀  Seeking growth and new challenges at the intersection of technology and data.
 
 
-## 🛠️ Habilidades Técnicas  
+## 🛠️ Technical Skills  
 
-**Linguagens de Programação e Ferramentas**  
+**Programming Languages and Tools**  
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
@@ -35,10 +35,12 @@ fn main() {
   <img align="center" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 </div>
 
-**Áreas de Especialização**  
-- 📈 Machine Learning e Aprendizado Supervisionado/Não Supervisionado.  
-- 🧠 Inteligência Artificial para análise preditiva e otimização.  
-- 📊 Visualização de Dados interativa com Power BI e Python. 
+**Areas of Expertise**  
+- 📈 Machine Learning with supervised and unsupervised learning.  
+- 🧠 Artificial Intelligence for predictive analysis and optimization.  
+- 📊 Interactive Data Visualization with Power BI and Python.
+
+
 
 ## Find me around the world 🌎
 
