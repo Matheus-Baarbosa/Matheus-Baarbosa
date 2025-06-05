@@ -12,23 +12,33 @@ fn main() {
 }
 
 ```
-
 ## Who am I?
 
-👨‍💻 AI Student at FIAP.  
-📊 Enthusiast of problem-solving through data analysis.  
-🚀 Seeking growth and new challenges at the intersection of technology and data.
+👨‍💻  AI Student at FIAP.  
 
-## Skills 👨‍💻
+📊  Artificial intelligence and machine learning enthusiast. 
 
-🐍 Python  
-📈 R  
-🗄 SQL  
-💻 SAS  
-🧮 Power BI  
-🔮 Machine Learning  
-📊 Data Visualization  
-🧪 Survival Analysis
+🚀  Seeking growth and new challenges at the intersection of technology and data.
+
+
+## 🛠️ Habilidades Técnicas  
+
+**Linguagens de Programação e Ferramentas**  
+<div style="display: inline_block"><br>
+  <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/SAS-FF6719?style=for-the-badge&logo=sas&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img align="center" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+</div>
+
+**Áreas de Especialização**  
+- 📈 Machine Learning e Aprendizado Supervisionado/Não Supervisionado.  
+- 🧠 Inteligência Artificial para análise preditiva e otimização.  
+- 📊 Visualização de Dados interativa com Power BI e Python. 
 
 ## Find me around the world 🌎
 
