@@ -48,8 +48,9 @@ fn main() {
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mmatheus.barbosa)
 
 ## **My projects**
-- 🤖 [Classificação de Imagens com CNN (Homer vs Bart)](https://github.com/Matheus-Baarbosa/classificacao-imagens-homer-bart)
-- 🤖 [Machine Learning com KMeans (Altura, Peso e Gênero)](https://github.com/Matheus-Baarbosa/machine-learning-kmeans)
+- 🧠 [Classificação de Imagens com CNN (Homer vs Bart)](https://github.com/Matheus-Baarbosa/classificacao-imagens-homer-bart)
+- 📊 [Machine Learning com KMeans (Altura, Peso e Gênero)](https://github.com/Matheus-Baarbosa/machine-learning-kmeans)
+- 🏠 Previsão de Preços de Aluguel com Machine Learning — https://github.com/Matheus-Baarbosa/previsao_aluguel
 
 
 
