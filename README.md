@@ -50,7 +50,7 @@ fn main() {
 ## **My projects**
 - 🧠 [Classificação de Imagens com CNN (Homer vs Bart)](https://github.com/Matheus-Baarbosa/classificacao-imagens-homer-bart)
 - 📊 [Machine Learning com KMeans (Altura, Peso e Gênero)](https://github.com/Matheus-Baarbosa/machine-learning-kmeans)
-- 🏠 Previsão de Preços de Aluguel com Machine Learning — https://github.com/Matheus-Baarbosa/previsao_aluguel
+- 🏠 [Previsão de Preços de Aluguel com Machine Learning](https://github.com/Matheus-Baarbosa/previsao_aluguel)
 
 
 
